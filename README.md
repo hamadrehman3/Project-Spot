@@ -20,5 +20,7 @@ This webpage is deployed to GitHub Pages
 - [Deployment Link](https://hamadrehman3.github.io/se_project_spots/)
 
 - [Video Recording] (https://vimeo.com/1024189272/3c5afe4b56?ts=0&share=copy)
+"# se_project_spots" 
 "# Spots-project" 
-"# Spots-project" 
+"# se_project_spots" 
+"# se_project_spots" 
